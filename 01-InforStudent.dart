@@ -5,7 +5,7 @@
   1. Viết hàm khởi tạo
   2. Viết các setter/ getter
   3. Viết hàm tính điểm trung bình
-  4. Viết hàm xuất thôn tin
+  4. Viết hàm xuất thông tin
   5. Ví dụ cụ thể trong hàm main()
 */
 
